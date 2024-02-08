@@ -1,0 +1,6 @@
+
+Enter the number of objects: 
+ Enter weiights and profit of each object : 
+ Enter capacity of knapsack: 
+ Maximum Profit : 11.00
+ 
